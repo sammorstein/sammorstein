@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **integrating DenseTact with the LEAP hand and improving dexterous teleoperation through the ARMLab at Stanford.**
 
-- 🌱 I’m currently learning **about autonomy, path planning, trajectory optimization, optimal control, and machine learning**
+- 🌱 I’m currently learning **about autonomy, path planning, trajectory optimization, optimal control, and machine learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
