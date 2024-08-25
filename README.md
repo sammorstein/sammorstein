@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammorstein&label=Profile%20views&color=0e75b6&style=flat" alt="sammorstein" /> </p>
 
-- 🔭 I’m currently working on **integrating DenseTacts with the LEAP hand and improving dexterous teleoperation.**
+- 🔭 I’m currently working on **integrating DenseTact with the LEAP hand and improving dexterous teleoperation through the ARMLab at Stanford.**
 
 - 🌱 I’m currently learning **about autonomy, path planning, trajectory optimization, optimal control, and machine learning**
 
